@@ -59,25 +59,7 @@ Key visualizations include:
 - **Programming Language:** Python.  
 - **Libraries:** Pandas, Matplotlib, Seaborn, NumPy.  
 
-
-
-## Usage Instructions  
-To run the analysis:  
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/your-username/supermarket-sales-analysis.git  
-   cd supermarket-sales-analysis  
-   ```  
-2. Install required libraries:  
-   ```bash  
-   pip install -r requirements.txt  
-   ```  
-3. Run the Jupyter Notebook:  
-   ```bash  
-   jupyter notebook supermarket_sales_analysis.ipynb  
-   ```  
-
-
+ 
 
 ## Contribution  
 Feel free to contribute by forking the repository and submitting a pull request.  
